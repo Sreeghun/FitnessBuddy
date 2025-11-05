@@ -1,5 +1,0 @@
-sleep_date,bed_time,wake_time,duration_hours,quality
-2025-11-05,22:30,06:45,8.25,✅ Good sleep
-2025-11-05,02:15,06:00,3.75,⚠️ Too little sleep
-2025-11-04,22:00,06:30,8.5,✅ Good sleep
-2025-11-04,22:30,06:30,8.0,Good
