@@ -1,0 +1,11 @@
+{
+    "name": "sreeghun",
+    "age": 21,
+    "height_cm": 170,
+    "weight_kg": 72.0,
+    "goal": "Gain Weight",
+    "daily_calorie_target": 2000,
+    "daily_water_target_l": 4.5,
+    "theme": "Light",
+    "animate_metrics": true
+}
